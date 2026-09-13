@@ -4,8 +4,7 @@
 
 **An end-to-end Power BI case study** — from raw ball-by-ball data to an interactive tournament dashboard covering 18 seasons of the Indian Premier League.
 
-![IPL Dashboard Preview](ipl_analytics_dashboard.PNG)
-
+<img width="1326" height="743" alt="ipl_analytics_dashbaord" src="https://github.com/user-attachments/assets/ae057e32-e1fa-4d73-aa2f-9985be6e0025" />
 ---
 
 ## 1. Business Context
